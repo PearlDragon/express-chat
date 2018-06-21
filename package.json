@@ -1,6 +1,6 @@
 {
   "name": "express-chat",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "app.js",
   "author": "wnross@gmail.com",
   "license": "Apache-2.0",
