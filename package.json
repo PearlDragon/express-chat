@@ -42,7 +42,7 @@
         "single"
       ]
     }
-  }
+  },
   "name": "express-chat",
   "version": "1.0.0",
   "main": "app.js",
@@ -58,7 +58,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "wnross@gmail.com",
-  "license": "ISC",
-  "description": "Experiments to build a websocket based chat application
-"
+  "license": "Apache-2.0",
+  "description": "Experiments to build a websocket based chat application"
 }
